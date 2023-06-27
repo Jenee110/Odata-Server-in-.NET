@@ -1,0 +1,14 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+
+  "ConnectionStrings": {
+    "Default": "Host=servicewarehouse.c5ixm26kc4nu.us-east-2.rds.amazonaws.com;Username=postgres;Password=!2s6!YEdf6BrmkBf;Database=db_sfsync"
+  }
+  
+}
