@@ -1,3 +1,7 @@
 To sync Database with the project use this command - 
 
 dotnet ef dbcontext scaffold "Server=your_server;Port=your_port;Database=your_database;User Id=your_username;Password=your_password;" Npgsql.EntityFrameworkCore.PostgreSQL --output-dir Models --context db_context --force --verbose
+
+
+To deploy on AWS LINK - 
+https://coderjony.com/blogs/building-a-serverless-aspnet-core-web-api-with-aws-lambda-using-function-urls
