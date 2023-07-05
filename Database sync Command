@@ -5,3 +5,6 @@ dotnet ef dbcontext scaffold "Server=your_server;Port=your_port;Database=your_da
 
 To deploy on AWS LINK - 
 https://coderjony.com/blogs/building-a-serverless-aspnet-core-web-api-with-aws-lambda-using-function-urls
+
+Reference erticle - 
+https://dev.to/berviantoleo/odata-with-net-6-5e1p
